@@ -1,7 +1,7 @@
 {
   "name": "commath",
   "version": "0.1.0",
-  "homepage": "https://supatsaraporn.github.io/ComMath-Project/",
+  "homepage": "https://supatsaraporn.github.io/CommathProject/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
