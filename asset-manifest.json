@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ComMath-Project/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ComMath-Project/static/js/main.8324b262.chunk.js",
-    "main.js.map": "/ComMath-Project/static/js/main.8324b262.chunk.js.map",
-    "runtime-main.js": "/ComMath-Project/static/js/runtime-main.26c52fdf.js",
-    "runtime-main.js.map": "/ComMath-Project/static/js/runtime-main.26c52fdf.js.map",
-    "static/js/2.0938f15a.chunk.js": "/ComMath-Project/static/js/2.0938f15a.chunk.js",
-    "static/js/2.0938f15a.chunk.js.map": "/ComMath-Project/static/js/2.0938f15a.chunk.js.map",
-    "index.html": "/ComMath-Project/index.html",
-    "precache-manifest.731b1eea1f2cc3f6c89ea64b26c58ddb.js": "/ComMath-Project/precache-manifest.731b1eea1f2cc3f6c89ea64b26c58ddb.js",
-    "service-worker.js": "/ComMath-Project/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ComMath-Project/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.0938f15a.chunk.js.LICENSE.txt": "/ComMath-Project/static/js/2.0938f15a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ComMath-Project/static/media/logo.5d5d9eef.svg"
+    "main.css": "/CommathProject/static/css/main.5f361e03.chunk.css",
+    "main.js": "/CommathProject/static/js/main.48d4a587.chunk.js",
+    "main.js.map": "/CommathProject/static/js/main.48d4a587.chunk.js.map",
+    "runtime-main.js": "/CommathProject/static/js/runtime-main.90f4bb7b.js",
+    "runtime-main.js.map": "/CommathProject/static/js/runtime-main.90f4bb7b.js.map",
+    "static/js/2.0938f15a.chunk.js": "/CommathProject/static/js/2.0938f15a.chunk.js",
+    "static/js/2.0938f15a.chunk.js.map": "/CommathProject/static/js/2.0938f15a.chunk.js.map",
+    "index.html": "/CommathProject/index.html",
+    "precache-manifest.ef0a9840798241ed318eaf674310735f.js": "/CommathProject/precache-manifest.ef0a9840798241ed318eaf674310735f.js",
+    "service-worker.js": "/CommathProject/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/CommathProject/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0938f15a.chunk.js.LICENSE.txt": "/CommathProject/static/js/2.0938f15a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/CommathProject/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.26c52fdf.js",
+    "static/js/runtime-main.90f4bb7b.js",
     "static/js/2.0938f15a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8324b262.chunk.js"
+    "static/js/main.48d4a587.chunk.js"
   ]
 }
