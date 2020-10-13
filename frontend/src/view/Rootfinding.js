@@ -1,11 +1,9 @@
 import React from 'react'
 
-function Page06() {
+export default function Rootfinding() {
     return (
         <div>
-            6.Root-finding
+            <h1>Rootfinding</h1>
         </div>
     )
 }
-
-export default Page06;

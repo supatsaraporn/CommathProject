@@ -1,11 +1,11 @@
 import React from 'react'
-import Home from './views/home'
-import Page01 from './views/page01'
-import Page02 from './views/page02'
-import Page03 from './views/page03'
-import Page04 from './views/page04'
-import Page05 from './views/page05'
-import Page06 from './views/page06'
+import Home from './view/home'
+import Basiccomputing from './view/BasicComputing'
+import Linearequations from './view/LinearEquations'
+import Interpolation from './view/Interpolation'
+import Differentiation from './view/Differentiation'
+import Integration from './view/Integration'
+import Rootfinding from './view/Rootfinding'
 
 const routes = [
     {
@@ -13,32 +13,32 @@ const routes = [
       element: <Home />,
     },
     {
-      path: "commath-pj",
+      path: "Projectcm",
       element: <Home />,
     },
     {
-      path: "page01",
-      element: <Page01 />,
+      path: "basiccomputing",
+      element: <Basiccomputing />,
     },
     {
-      path: "page02",
-      element: <Page02 />,
+      path: "linearequations",
+      element: <Linearequations />,
     },
     {
-      path: "page03",
-      element: <Page03 />,
+      path: "interpolation",
+      element: <Interpolation />,
     },
     {
-      path: "page04",
-      element: <Page04 />,
+      path: "differentiation",
+      element: <Differentiation/>,
     },
     {
-      path: "page05",
-      element: <Page05 />,
+      path: "integration",
+      element: <Integration />,
     },
     {
-      path: "page06",
-      element: <Page06 />,
+      path: "rootfinding",
+      element: <Rootfinding />,
     },
   ];
   

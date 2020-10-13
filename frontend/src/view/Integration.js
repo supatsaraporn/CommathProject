@@ -1,11 +1,9 @@
 import React from 'react'
 
-function Page05() {
+export default function Integration() {
     return (
         <div>
-            5.Integration
+            <h1>Integration</h1>
         </div>
     )
 }
-
-export default Page05;
