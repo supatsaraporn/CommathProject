@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/CommathProject/static/css/main.27f190fb.chunk.css",
-    "main.js": "/CommathProject/static/js/main.9da1f622.chunk.js",
-    "main.js.map": "/CommathProject/static/js/main.9da1f622.chunk.js.map",
-    "runtime-main.js": "/CommathProject/static/js/runtime-main.90f4bb7b.js",
-    "runtime-main.js.map": "/CommathProject/static/js/runtime-main.90f4bb7b.js.map",
-    "static/css/2.3cf5d70f.chunk.css": "/CommathProject/static/css/2.3cf5d70f.chunk.css",
-    "static/js/2.4c0a060a.chunk.js": "/CommathProject/static/js/2.4c0a060a.chunk.js",
-    "static/js/2.4c0a060a.chunk.js.map": "/CommathProject/static/js/2.4c0a060a.chunk.js.map",
+    "main.css": "/CommathProject/static/css/main.f241eb00.chunk.css",
+    "main.js": "/CommathProject/static/js/main.9640ec70.chunk.js",
+    "main.js.map": "/CommathProject/static/js/main.9640ec70.chunk.js.map",
+    "runtime-main.js": "/CommathProject/static/js/runtime-main.e6c46aa5.js",
+    "runtime-main.js.map": "/CommathProject/static/js/runtime-main.e6c46aa5.js.map",
+    "static/css/2.109aacae.chunk.css": "/CommathProject/static/css/2.109aacae.chunk.css",
+    "static/js/2.df640283.chunk.js": "/CommathProject/static/js/2.df640283.chunk.js",
+    "static/js/2.df640283.chunk.js.map": "/CommathProject/static/js/2.df640283.chunk.js.map",
     "index.html": "/CommathProject/index.html",
-    "precache-manifest.412d76184601de66db9342c9de6e57a3.js": "/CommathProject/precache-manifest.412d76184601de66db9342c9de6e57a3.js",
-    "service-worker.js": "/CommathProject/service-worker.js",
-    "static/css/2.3cf5d70f.chunk.css.map": "/CommathProject/static/css/2.3cf5d70f.chunk.css.map",
-    "static/css/main.27f190fb.chunk.css.map": "/CommathProject/static/css/main.27f190fb.chunk.css.map",
-    "static/js/2.4c0a060a.chunk.js.LICENSE.txt": "/CommathProject/static/js/2.4c0a060a.chunk.js.LICENSE.txt"
+    "static/css/2.109aacae.chunk.css.map": "/CommathProject/static/css/2.109aacae.chunk.css.map",
+    "static/css/main.f241eb00.chunk.css.map": "/CommathProject/static/css/main.f241eb00.chunk.css.map",
+    "static/js/2.df640283.chunk.js.LICENSE.txt": "/CommathProject/static/js/2.df640283.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.90f4bb7b.js",
-    "static/css/2.3cf5d70f.chunk.css",
-    "static/js/2.4c0a060a.chunk.js",
-    "static/css/main.27f190fb.chunk.css",
-    "static/js/main.9da1f622.chunk.js"
+    "static/js/runtime-main.e6c46aa5.js",
+    "static/css/2.109aacae.chunk.css",
+    "static/js/2.df640283.chunk.js",
+    "static/css/main.f241eb00.chunk.css",
+    "static/js/main.9640ec70.chunk.js"
   ]
 }
