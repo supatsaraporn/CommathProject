@@ -1,4 +1,0 @@
-fastapi==1.6.1
-uvicorn==2.13.0
-pydantic==0.61.1
-nameko==0.11.8
